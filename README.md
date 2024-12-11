@@ -7,6 +7,8 @@ This is my Audit portfolio collecting the contests I participated in and my enga
 I am doing contests on different platforms like [code4rena](https://code4rena.com/) and [sherlock](https://www.sherlock.xyz/).
 
 - Twitter: [@0xAraj](https://twitter.com/0xAraj)
+- Discord: [@0xAraj](https://discord.com/channels/@me)
+- Telegram: [@0xAraj](https://web.telegram.org/a/)
 
 ## Highlights
 
