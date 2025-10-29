@@ -10,13 +10,21 @@ I am doing contests on different platforms like [code4rena](https://code4rena.co
 - Discord: [@0xAraj](https://discord.com/channels/@me)
 - Telegram: [@0xAraj](https://web.telegram.org/a/)
 
+## Private Audits
+
+| Protocol                                 | Description         | Provider   |                                              Report                                               |
+| :--------------------------------------- | :------------------ | :--------- | :-----------------------------------------------------------------------------------------------: |
+| [BetterBank](https://www.betterbank.io/) | Lending & Borrowing | CODESPECT  | [Link](https://github.com/namx05/audits/blob/main/audit-reports/pdf/032_CODESPECT_BETTERBANK.pdf) |
+| [Lista DAO](https://lista.org/)          | Lending & Borrowing | BailSec    |                                               Soon                                                |
+| Moonshot                                 | Bonding Curve       | ThreeSigma |                                               Soon                                                |
+
 ## Audit Contests
 
 | Contest                                                                             | Description                   | Findings   | Rank  |                                                  Report                                                  |
 | :---------------------------------------------------------------------------------- | :---------------------------- | :--------- | :---: | :------------------------------------------------------------------------------------------------------: |
 | [BitVault](https://code4rena.com/audits/2025-04-bitvault)                           | Liquity v2 fork               | 2M         |  🥇   |                           [📄](https://code4rena.com/audits/2025-04-bitvault)                            |
 | [Extra Finance](https://audits.sherlock.xyz/contests/380?filter=questions)          | Leveraged Yield Farming (LYF) | 1H         |  🥉   |                                                    -                                                     |
-| [Allbridge Core Yield](https://audits.sherlock.xyz/contests/1051)                   | Leveraged Yield Farming (LYF) | 1M         |  🥉   |                          [📄](https://audits.sherlock.xyz/contests/1051/report)                          |
+| [Allbridge Core Yield](https://audits.sherlock.xyz/contests/1051)                   | Cross-chain Bridge            | 1M         |  🥉   |                          [📄](https://audits.sherlock.xyz/contests/1051/report)                          |
 | [M^0](https://audits.sherlock.xyz/contests/124)                                     | Collateral, Cryptodollars     | 1M         | 4th🎖️ |                          [📄](https://audits.sherlock.xyz/contests/124/report)                           |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables#top)                   | GameFi, Point Farming         | 2H, 2M, 1L | 5th🎖️ |                          [📄](https://code4rena.com/reports/2024-05-munchables)                          |
 | [Sophon Farming](https://audits.sherlock.xyz/contests/376)                          | Staking, Airdrop              | 1M         | 5th🎖️ |                          [📄](https://audits.sherlock.xyz/contests/376/report)                           |
