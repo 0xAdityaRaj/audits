@@ -12,11 +12,12 @@ I am doing contests on different platforms like [code4rena](https://code4rena.co
 
 ## Private Audits
 
-| Protocol                                 | Description         | Provider   |                                              Report                                               |
-| :--------------------------------------- | :------------------ | :--------- | :-----------------------------------------------------------------------------------------------: |
-| [BetterBank](https://www.betterbank.io/) | Lending & Borrowing | CODESPECT  | [Link](https://github.com/namx05/audits/blob/main/audit-reports/pdf/032_CODESPECT_BETTERBANK.pdf) |
-| [Lista DAO](https://lista.org/)          | Lending & Borrowing | BailSec    |                                               Soon                                                |
-| Moonshot                                 | Bonding Curve       | ThreeSigma |                                               Soon                                                |
+| Protocol                                 | Description                  | Provider   |                                              Report                                               |
+| :--------------------------------------- | :--------------------------- | :--------- | :-----------------------------------------------------------------------------------------------: |
+| [Alto](https://www.altofoundation.org/)  | Reward Distribution, Staking | BailSec    |                                               Soon                                                |
+| Moonshot                                 | Bonding Curve                | ThreeSigma |                                               Soon                                                |
+| [Lista DAO](https://lista.org/)          | Lending & Borrowing          | BailSec    |                                               Soon                                                |
+| [BetterBank](https://www.betterbank.io/) | Lending & Borrowing          | CODESPECT  | [Link](https://github.com/namx05/audits/blob/main/audit-reports/pdf/032_CODESPECT_BETTERBANK.pdf) |
 
 ## Audit Contests
 
