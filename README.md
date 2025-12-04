@@ -14,6 +14,7 @@ I am doing contests on different platforms like [code4rena](https://code4rena.co
 
 | Protocol                                 | Description                  | Provider   |                                              Report                                               |
 | :--------------------------------------- | :--------------------------- | :--------- | :-----------------------------------------------------------------------------------------------: |
+| VEX                                      | Uniswap v2 fork              | BailSec    |                                               Soon                                                |
 | [Alto](https://www.altofoundation.org/)  | Reward Distribution, Staking | BailSec    |                                               Soon                                                |
 | Moonshot                                 | Bonding Curve                | ThreeSigma |                                               Soon                                                |
 | [Lista DAO](https://lista.org/)          | Lending & Borrowing          | BailSec    |                                               Soon                                                |
